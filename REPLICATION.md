@@ -1,0 +1,19 @@
+# Standalone replication
+
+Unpack the archive and run from its `replication` directory with CPython 3.12.14 and NumPy 2.3.5 (see requirements.txt and ENVIRONMENT.md). Obtain the pinned CSV separately as documented in SOURCE.md. Place it in a local `data` directory; participant data are deliberately absent from this archive. Select a fresh output directory:
+
+```text
+python run_analysis.py --data data/3_Validation_Sample.csv --output output
+```
+
+This command needs only distributed public files, the separately obtained CSV and Python/NumPy. No private task, snapshot, readiness, role or project file is needed. It checks source and public scientific-file hashes, completes the primary and all five fixed sensitivities with 1,999 attempts each, and refuses an existing completed results.json. No network requests or publisher scripts are run. Do not edit the pinned specification/code without recording a new analysis version.
+
+SCIENTIFIC_SPEC.md supplies the population, measurement map, model, contrasts, inference, classification, support, failure and sensitivity rules. SOURCE.md supplies attribution, DOI, exact version, byte count, SHA-256 and CC BY 4.0 source terms. provenance.json maps the minimal public extract to the original frozen plan/measurement/payload hashes and prospective GitHub commit. The extract removes administrative history and local pointers; it is not a replacement prospective plan.
+
+The accepted aggregate results and claim ledger are preserved under accepted/. `accepted/results.json`, `tables.csv`, `numeric_claims.csv` and `sample_flow.json` retain their original bytes. The ledger's historical `10_Analysis/T008/results.json` maps to `accepted/results.json` with the identical SHA-256 and identity result keys; see provenance.json. Harmless run IDs and historical relative bootstrap pointers are retained. Those per-draw files are omitted from the archive and regenerated in a fresh run. The accepted report has only attribution/status wording corrections. All original scientific conclusions were independently reconstructed across all six analyses; this standalone revision awaits separate narrow portability review.
+
+Fresh results include results.json (all estimates/intervals/classifications/diagnostics), tables.csv, numeric_claims.csv (fresh result hash/key mapping), sample_flow.json, analysis_report.md and run_manifest.json (public spec/source/code/environment hashes, UTC and seed). Generated support/ files contain parameter draws/checkpoints and two binned density SVGs; no sampled respondent indices, participant rows, IDs, individual residuals or point-level plots are written. Keep the source CSV local. Bootstrap draws here are parameter estimates indexed by draw number, not participant resample indices. The distributed archive contains no draw tables or figures.
+
+For a replication comparison use absolute tolerance 1e-12 on counts, coefficients, covariance/intervals, support counts and classification identity. Expected primary n=1,560; influence n=1,468; all other fixed variants n=1,560. In this pinned source all 1,999 draws are valid per variant, with prorating not applicable because no items are missing. The accepted primary conjunction is unsupported; the evidence against material positive specificity does not establish equivalence. No new hypotheses or selected interactions are introduced. All interpretation remains limited to fallible observed-score between-person lagged associations.
+
+No package upload or release is performed here; no new license is granted for the analysis package. Source attribution: Gimpel et al. (2025), Stress from Digital Work: Toward a Unified View of Digital Hindrance Stressors, Information Systems Research, DOI 10.1287/isre.2022.0691. Repository DOI 10.17605/OSF.IO/7YJQ4; source data/scripts CC BY 4.0; new analysis and packaging modifications, no endorsement implied.

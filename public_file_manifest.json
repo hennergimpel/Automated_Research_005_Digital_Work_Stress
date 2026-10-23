@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "status": "produced_pending_independent_narrow_review",
+  "source_access": {
+    "article": "Gimpel, H., Lanzl, J., Regal, C., Urbach, N., Becker, J., and Tegtmeier, P. (2025). Stress from Digital Work: Toward a Unified View of Digital Hindrance Stressors. Information Systems Research.",
+    "article_doi": "10.1287/isre.2022.0691",
+    "repository_doi": "10.17605/OSF.IO/7YJQ4",
+    "repository": "https://osf.io/7yjq4/",
+    "component": "https://osf.io/vf2gz/",
+    "file": "3_Validation_Sample.csv",
+    "version": 1,
+    "stable_url": "https://osf.io/download/yur6x/?version=1",
+    "bytes": 372976,
+    "sha256": "5709b42c802e07e0eeeecc2e67aa642c31781ff96ec1700ecf1de69ef4d2186b",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "archive": {
+    "path": "replication-package.zip",
+    "sha256": "432a1df57e343993b71176e455715a9dee496b2db9db36c903b66bcf22b4c267",
+    "bytes": 96765
+  },
+  "files": [
+    {
+      "path": "accepted/analysis_report.md",
+      "sha256": "45877123790c51836cf448f90c5e89030f0dcb845c56aa48f6cfb0e3a9ae5838",
+      "bytes": 6813
+    },
+    {
+      "path": "accepted/numeric_claims.csv",
+      "sha256": "981831e74ffd37fad0d85708eac527523744d10af258b6e631a2f110f6f95f2c",
+      "bytes": 729320
+    },
+    {
+      "path": "accepted/results.json",
+      "sha256": "6382342ffdd47cd8985ab224291805a8c1d6f802be5986a18efe0bf1cecee5a3",
+      "bytes": 95854
+    },
+    {
+      "path": "accepted/sample_flow.json",
+      "sha256": "bc55ab4616faf79793cd7c6785144ed14523cc288a8b5953c72e447f31955d69",
+      "bytes": 1825
+    },
+    {
+      "path": "accepted/tables.csv",
+      "sha256": "7274055520ad37c02d04d36e64ca53b1884274460a1cc104eb65fe12be5d3b6a",
+      "bytes": 2058
+    },
+    {
+      "path": "ENVIRONMENT.md",
+      "sha256": "93c21adec1a3a0c4d748ac59a67c8b17181e0b57bf32795c4ab58962a6b7408e",
+      "bytes": 1146
+    },
+    {
+      "path": "PORTABILITY_VALIDATION.json",
+      "sha256": "d2638c67b785ee9136be2d16ea727f19ed1c187f706610881878556dc5053f88",
+      "bytes": 4908
+    },
+    {
+      "path": "provenance.json",
+      "sha256": "4af5df6c4d6760cc0c271d13c56d6b95688584ab1bd08210715f99e42b3ac4e1",
+      "bytes": 10040
+    },
+    {
+      "path": "README.md",
+      "sha256": "07d0f7fb32250fd1c21be357d701462754fe61777a9852c0f1c7088be141437b",
+      "bytes": 3892
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "b278f1339f69781eefd2f8fc58f11e4c07a5fbd9134324562c8c0f65599b34c5",
+      "bytes": 14
+    },
+    {
+      "path": "run_analysis.py",
+      "sha256": "648dab709599faa362ef149b9f90590e541e62bb07ecdee67e8fe0014e69ec4b",
+      "bytes": 29301
+    },
+    {
+      "path": "SCIENTIFIC_SPEC.md",
+      "sha256": "9a17b1e9515a1d77f8a535ce0eecb2956ae612d466af5a288faba46bbdcb69b6",
+      "bytes": 26114
+    },
+    {
+      "path": "SOURCE.md",
+      "sha256": "e1cb9aea997e7737a71c9bdb84c4a91ce6f3a4d3a251b40ee81ee0ea9c588066",
+      "bytes": 1545
+    },
+    {
+      "path": "PACKAGE_MANIFEST.json",
+      "sha256": "becb8a9f542d274f8422e918e9e9e68e42657414d09527b4c94282259391bc7c",
+      "bytes": 2442
+    }
+  ],
+  "public_root": "replication/",
+  "code_sha256": "648dab709599faa362ef149b9f90590e541e62bb07ecdee67e8fe0014e69ec4b",
+  "scientific_spec_sha256": "9a17b1e9515a1d77f8a535ce0eecb2956ae612d466af5a288faba46bbdcb69b6",
+  "provenance_sha256": "4af5df6c4d6760cc0c271d13c56d6b95688584ab1bd08210715f99e42b3ac4e1",
+  "preserved_original_results_sha256": "6382342ffdd47cd8985ab224291805a8c1d6f802be5986a18efe0bf1cecee5a3",
+  "validation_sha256": "4cfd0dcae27c47dc1b3001096961a1606412be6b05157095371581fb542dcee0",
+  "licensing": "Source data/scripts CC BY 4.0; no new analysis/package license granted.",
+  "scientific_changes": [],
+  "upload_performed": false
+}

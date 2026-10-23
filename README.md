@@ -12,6 +12,6 @@ This is a prospectively posted GitHub plan. It is not an OSF registration or an 
 
 The original data are available from [the authors' OSF repository](https://osf.io/7yjq4/) (DOI: 10.17605/OSF.IO/7YJQ4). Exact file/version/hash and attribution are documented in the plan. Participant-level data are not redistributed here.
 
-Replication code, source-access instructions, permitted aggregate outputs, deviations, and workflow transparency materials will be added after analysis and verification. No study findings are claimed in this initial posting.
+The [replication archive](replication-package.zip) contains the standalone analysis code, specification, source-access instructions, and aggregate outputs. See [RELEASE_STATUS.md](RELEASE_STATUS.md) for the current release status, [REPLICATION.md](REPLICATION.md) for execution instructions and [public_file_manifest.json](public_file_manifest.json) for file hashes and exclusions. The archive requires the separately obtained, version-pinned source CSV; participant-level data are not included.
 
 The intended venue is the [ICIS 2026 PDW on Autonomous Scholarship](https://sites.nd.edu/autonomous-workshop/). Repository creation and plan posting do not constitute paper submission or acceptance.
