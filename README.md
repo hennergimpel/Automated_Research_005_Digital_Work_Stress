@@ -4,7 +4,7 @@ This repository holds the prospective analysis plan and, as they become availabl
 
 ## Prospective plan
 
-[Read the complete analysis plan](prospective-analysis-plan.md). It includes the theory, measurement decisions, exact analysis specification, precision scenarios, source versions, and exposure disclosure. The initial plan is posted before the new study's tests. Its original bytes are identified in [SHA256SUMS.txt](SHA256SUMS.txt); use the initial plan commit when referring to the prospective specification.
+[Read the complete analysis plan](prospective-analysis-plan.md). It includes the theory, measurement decisions, exact analysis specification, precision scenarios, source versions, and exposure disclosure. The initial plan is posted before the new study's tests. The [initial plan commit](https://github.com/hennergimpel/Automated_Research_005_Digital_Work_Stress/commit/20b0cd92de4a08f0b47649183cef92e690026ef6) records the prospective specification at 2026-10-23 07:42:49 UTC. [SHA256SUMS.txt](SHA256SUMS.txt) identifies current file bytes. The current edition has editorial changes to posting administration only; the scientific specification is unchanged.
 
 This is a prospectively posted GitHub plan. It is not an OSF registration or an independently immutable registry. Earlier technical work tested data access and analytics software; it did not develop or test this new study's hypotheses. The plan discloses the historical technical processing.
 

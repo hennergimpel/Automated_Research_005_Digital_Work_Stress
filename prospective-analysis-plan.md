@@ -1,14 +1,6 @@
 # Prospective analysis plan: monitoring when the means of doing the work are missing
 
-Prepared 23 October 2026 for Project 005. Version T004.1, submitted for independent scientific review before posting or analysis. This is the complete posting payload, including the analysis specification, exact measurement decisions, precision calculations and contribution rationale below. No new-study tests have been performed.
-
-## Posting destination and status
-
-User-designated public repository: https://github.com/hennergimpel/Automated_Research_005_Digital_Work_Stress . R00 reports that this repository has been created; this producer did not create it, inspect its contents or upload anything. Suggested repository filename: `prospective-analysis-plan.md`. The GitHub publication receipt, exact commit ID, provider timestamp and content hash are not yet available. A local file or empty repository does not establish prospective posting.
-
-The user's instruction, “Let us post that plan on GitHub prior to analysis”, replaces the inherited OSF step for this project. The later instruction is to create a repository in the user's GitHub account and use it for replication materials as well. No OSF login or OSF registration receipt is required for this route. We will describe the action as prospective public posting of an analysis plan on GitHub, not as an OSF registration, a Registered Report, an immutable registry guarantee, or a workshop mandate. No analysis precedes the accepted plan's actual public commit.
-
-Before posting, R00 must link the independent review and resolve all major scientific findings. The posted commit must contain this complete accepted plan, including any explicitly versioned pre-analysis revisions. Record the provider time and immutable content identifiers in the separate receipt; do not invent those facts inside the prepared payload. Preserve the original plan commit when code and results are later added. Any later plan revision must state whether new-study analyses had already begun.
+Prepared 23 October 2026 for Project 005. Scientific version T004.1 was independently reviewed and posted at 2026-10-23 07:42:49 UTC in commit 20b0cd92de4a08f0b47649183cef92e690026ef6 before the new-study tests. This editorial edition removes posting administration and personal attribution. Hypotheses, measurements, source data, models, decision rules, sensitivity analyses and precision scenarios are unchanged. Prospective wording below is retained from the original specification; it is not a statement that analysis remains unstarted at the time of this editorial update.
 
 ## Plain-language study summary
 
@@ -30,7 +22,7 @@ The repository README and license state CC BY 4.0 for the data and scripts, perm
 
 ## Frozen component integrity
 
-The following SHA-256 values identify the local component texts embedded verbatim below. The final payload's own hash belongs in the posting receipt rather than inside itself. If review changes a component, regenerate this payload and all affected hashes before posting.
+The following SHA-256 values identify the original independently reviewed component texts. Their scientific specification is retained below. Administrative attribution at the component openings and readiness paragraph has been edited in this edition; these are original-component hashes, not hashes of those editorially revised excerpts. The current complete document hash is recorded in SHA256SUMS.txt; the initial commit preserves the original prospective payload.
 
 - `06_Concept/T004/contribution.md`: `9193635d7c226a0e6f4b3637a6af56aa1cf247f47ec9cd3d021c5f9973784218`
 - `10_Analysis/T004/analysis_plan.md`: `d22f2b0d8509c826d61f522b78cb8fa2b51e5a2902c8e31299cb7d65f952aecb`
@@ -54,7 +46,7 @@ The following sections are the complete planned work, not empirical findings. Th
 
 # T004 prospective analysis plan
 
-Version 1, 23 October 2026. Status: produced for independent review. No new-study tests have occurred. Freeze the accepted version and post it to GitHub before analysis, as explicitly requested by the user. A GitHub commit is a public time-stamped version of a plan, not an OSF registration or a guarantee that history can never be altered. Preserve exact repository URL, commit ID, file hashes and provider time in the later readiness record.
+Version 1, 23 October 2026. Status: produced for independent review. No new-study tests have occurred. Freeze the accepted version and post it to GitHub before analysis. A GitHub commit is a public time-stamped version of a plan, not an OSF registration or a guarantee that history can never be altered. Preserve exact repository URL, commit ID, file hashes and provider time in the later readiness record.
 
 ## 1. Question, population and inferential classification
 
@@ -155,7 +147,7 @@ Public replication materials later comprise readable code, environment/run instr
 
 ## 10. Readiness prerequisites
 
-Current readiness is false. Required before tests: independent accepted contribution/design review; review resolutions in a frozen accepted version; truthful minimal-data applicability record (this plan's bounded determination, accepted in review); exact GitHub-hosted plan/attachment commit with matching local hashes and provider time; source promotion/integrity receipt; R00's documented existing-data analysis-stage readiness decision. No OSF login, OSF registration receipt or new acquisition-stage gate is required for the user-selected GitHub route. The destination choice is a documented project-specific user override of the inherited workflow, not an assertion that GitHub is an immutable registration provider or that the workshop requires registration.
+Current readiness is false. Required before tests: independent accepted contribution/design review; review resolutions in a frozen accepted version; truthful minimal-data applicability record (this plan's bounded determination, accepted in review); exact GitHub-hosted plan/attachment commit with matching local hashes and provider time; source promotion/integrity receipt; R00's documented existing-data analysis-stage readiness decision. No OSF login, OSF registration receipt or new acquisition-stage gate is required for this GitHub route. GitHub posting is not an immutable-registry guarantee or a workshop requirement.
 
 
 ---
@@ -322,7 +314,7 @@ The analyst must not substitute these planning numbers for observed data/results
 
 # T004 contribution decision: monitoring when the means of doing the work are missing
 
-Version 1, 23 October 2026. Producer proposal for fresh independent contribution/design review; not an accepted contribution or an empirical result. All new-study analyses below remain unperformed. The user has now requested prospective posting of the reviewed plan on GitHub before analysis, replacing this project's OSF step. That changes the posting destination, not the prospective-analysis or disclosure requirements.
+Version 1, 23 October 2026. Producer proposal for fresh independent contribution/design review; not an accepted contribution or an empirical result. All new-study analyses below remain unperformed. The reviewed plan is to be prospectively posted on GitHub before analysis. That changes the posting destination, not the prospective-analysis or disclosure requirements.
 
 ## Decision and research question
 
