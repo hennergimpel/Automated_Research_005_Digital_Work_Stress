@@ -14,4 +14,6 @@ The original data are available from [the authors' OSF repository](https://osf.i
 
 The [replication archive](replication-package.zip) contains the standalone analysis code, specification, source-access instructions, and aggregate outputs. See [RELEASE_STATUS.md](RELEASE_STATUS.md) for the current release status, [REPLICATION.md](REPLICATION.md) for execution instructions and [public_file_manifest.json](public_file_manifest.json) for file hashes and exclusions. The archive requires the separately obtained, version-pinned source CSV; participant-level data are not included.
 
+The [workflow transparency supplement](workflow-transparency.md) describes the research process, representative task prompts, verification and known record limitations. These are process summaries, not complete interaction logs.
+
 The intended venue is the [ICIS 2026 PDW on Autonomous Scholarship](https://sites.nd.edu/autonomous-workshop/). Repository creation and plan posting do not constitute paper submission or acceptance.
